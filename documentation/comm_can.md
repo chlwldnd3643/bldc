@@ -1,4 +1,4 @@
-# VESC CAN-Bus Communication
+## VESC CAN-Bus Communication
 
 The VESC Firmware supports 4 different CAN-modes, which can be selected from **App Settings -> General -> CAN Mode** in VESC Tool. The modes are:
 
